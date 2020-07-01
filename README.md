@@ -2,10 +2,9 @@
 
 This Project is using esp32_idf board to test all funcitonal features and make advanced change or progress
 
-***************************************************SET UP*********************************************************************************** 
+SET UP:
 
-***************************************************Log Diary********************************************************************************
-Log:
+LOG:
 1. 6/25/20:
    wifi: Once turn on terminal, update wifi messsage, it can connect automatically every time after rebooting
    Console: Add a console for project to talk to the board with command
